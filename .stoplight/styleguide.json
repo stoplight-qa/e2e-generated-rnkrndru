@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Rnkrndru",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjY3NQ"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjY3NQ",
+      "name": "Handmade Cotton Chair",
+      "slug": "seeded-handmade-cotton-chair-048t2",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
